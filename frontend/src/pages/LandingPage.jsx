@@ -9,7 +9,7 @@ const STEPS = [
 
 const SERVICES = [
   { icon: Zap, title: 'Collecte immédiate', desc: 'Un collecteur disponible en quelques minutes pour vos besoins urgents.', featured: true },
-  { icon: Calendar, title: 'Collecte planifiée', desc: 'Choisissez votre date et heure préférée à l'avance.' },
+  { icon: Calendar, title: 'Collecte planifiée', desc: "Choisissez votre date et heure préférée à l'avance." },
   { icon: RefreshCw, title: 'Abonnement récurrent', desc: 'Service hebdomadaire ou mensuel automatique.' },
   { icon: Building2, title: 'Entreprises & bureaux', desc: 'Solutions sur mesure avec facturation mensuelle.' },
   { icon: Package, title: 'Gros volumes', desc: 'Encombrants, déménagements et déchets de chantier.' },
